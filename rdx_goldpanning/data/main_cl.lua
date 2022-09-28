@@ -119,6 +119,7 @@ Citizen.CreateThread(function()
          
         if NoWeapons then
             DisablePlayerFiring(player,true)  
+	    SetCurrentPedWeapon(player,"WEAPON_UNARMED",true) 		
         end       
     end
  end)
