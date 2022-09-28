@@ -14,9 +14,8 @@
 - Add rdx_goldpanning to resources folder
 
 3. Configure Server.cfg
+-start InteractSound
+-start rprogress
+-start rdx_goldpanning
 
-start InteractSound
-
-start rprogress
-
-start rdx_goldpanning
+4. Start server and enjoy!
