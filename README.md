@@ -5,7 +5,7 @@
 
 1. Requirments - all come in package
 - RDX-Core (RedM-Extended)
-- rdx_inventoryhud (or another inventory system)
+- rdx_inventoryhud (https://github.com/Redm-Extended-PT/rdx_inventoryhud) have a fork coming soon!
 - InteractSound    (https://github.com/ValiantCraven27/InteractSound)
 - rprogress        ()
 
