@@ -18,4 +18,7 @@
 - start rprogress
 - start rdx_goldpanning
 
-4. Start server and enjoy!
+4. Set language in local in rdx_goldpanning/settings
+
+5. Start server and enjoy!
+
