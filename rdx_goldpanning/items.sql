@@ -1,6 +1,6 @@
 
 INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
-        ('kit_goldpan', 'Gold Pan', 1, 0, 1),
+
 	('provision_coin_1787_cent_tkn', 'Feather', 1, 0, 1),
 	('provision_coin_1789_pny', 'Feather', 1, 0, 1),
 	('provision_coin_1792_lib_qtr', 'Feather', 1, 0, 1),

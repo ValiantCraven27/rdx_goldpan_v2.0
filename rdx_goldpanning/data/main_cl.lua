@@ -118,9 +118,7 @@ Citizen.CreateThread(function()
         local showText = Config.WaterNames[WaterHash]       
          
         if NoWeapons then
-            DisablePlayerFiring(player,true)
-            --DisableAllControlAction(0)
-            SetCurrentPedWeapon("MELEE_WEAPON_UNARMED", player, true)
+            DisablePlayerFiring(player,true)  
         end       
     end
  end)
