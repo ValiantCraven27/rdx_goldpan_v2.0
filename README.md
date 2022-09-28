@@ -6,7 +6,7 @@
 1. Requirments - all come in package
 - RDX-Core (RedM-Extended)
 - rdx_inventoryhud (or another inventory system)
-- InteractSound    ()
+- InteractSound    (https://github.com/ValiantCraven27/InteractSound)
 - rprogress        ()
 
 2. Install
