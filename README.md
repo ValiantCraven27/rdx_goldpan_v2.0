@@ -1,5 +1,5 @@
 # RDX (RedM Extended) for RedM
-# rdx_goldpan_v2.0
+# rdx_goldpan_v2.0 [English,Spanish,Portuguese]
 
 !!DELETE ALL SQL ITEMS FROM OLD VERSION OF GOLDPANNING
 
