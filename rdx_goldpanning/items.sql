@@ -3,7 +3,7 @@ INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
 
 	('provision_coin_1787_cent_tkn', '1787 Cent Token', 1, 0, 1),
 	('provision_coin_1789_pny', '1789 Penny', 1, 0, 1),
-	('provision_coin_1792_lib_qtr', '1792 Liberyy Quarter', 1, 0, 1),
+	('provision_coin_1792_lib_qtr', '1792 Liberty Quarter', 1, 0, 1),
 	('provision_coin_1792_nickel', '1792 Nickel', 1, 0, 1),
 	('provision_coin_1792_qtr', '1792 Quarter', 1, 0, 1),
 	('provision_coin_1794_slv_dlr', '1794 Silver Dollar', 1, 0, 1),
